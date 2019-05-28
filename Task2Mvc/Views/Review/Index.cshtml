@@ -1,0 +1,52 @@
+﻿@using DataLayer.Entities
+@{
+    ViewBag.Title = "Reviews";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+@if (ViewData["unit"] != null)
+{
+    <div class="content">
+        <div class="guest-form">
+            @using (Html.BeginForm("Index", "Review", FormMethod.Post))
+            {
+                <h1>Your review</h1>
+                <div>
+                    @Html.Label("Name", "Your name")
+                </div>
+                <div>
+                    @Html.TextBox("Name", "", new {@class = "form-control"})
+                </div>
+                <div>
+                    @Html.Label("Content", "Your review")
+                </div>
+                <div>
+                    @Html.TextArea("Content", "", new {@class = "form-control"})
+                </div>
+                <button type="submit" class="btn btn-primary" style="margin-bottom: 20px">Send</button>
+            }
+        </div>
+        <div class="reviews">
+            @foreach (var elem in (IList<Review>) ViewData["unit"])
+            {
+                <div class="article">
+                    <div class="article-name">
+                        @elem.Name
+                    </div>
+                    <div class="article-date">
+                        @elem.Date
+                    </div>
+                    <div class="article-content">
+                        @elem.Content
+                    </div>
+                </div>
+                <br/>
+            }
+        </div>
+    </div>
+}
+else
+{
+    <div class="text-center">
+        <h2>Thanks for your review</h2>
+    </div>
+}

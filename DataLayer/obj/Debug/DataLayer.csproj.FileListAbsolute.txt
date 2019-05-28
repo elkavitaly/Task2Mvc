@@ -1,0 +1,12 @@
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\vital\source\repos\Task2Mvc\DataLayer\obj\Debug\DataLayer.dll

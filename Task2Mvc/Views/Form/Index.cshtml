@@ -1,0 +1,67 @@
+﻿@using Task2Mvc.Models
+@{
+    ViewBag.Title = "Form";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+<div class="content">
+    @if (Model == null)
+    {
+        <div class="form-container">
+            @using (Html.BeginForm("Index", "Form", FormMethod.Post))
+            {
+                <div class="form-text-inputs">
+                    <div class="form-input">
+                        <div>@Html.Label("name", "Name")</div>
+                        <div>@Html.TextBox("name", "")</div>
+                    </div>
+                    <div class="form-input">
+                        <div>@Html.Label("surname", "Surname")</div>
+                        <div>@Html.TextBox("surname", "")</div>
+                    </div>
+                </div>
+                <div class="form-radio">
+                    <div>
+                        Your gender
+                    </div>
+                    <div>
+                        @Html.RadioButton("gender", "Male")
+                        @Html.Label("gender", "Male")
+                    </div>
+                    <div>
+                        @Html.RadioButton("gender", "Female")
+                        @Html.Label("gender", "Female")
+                    </div>
+                </div>
+                <div class="form-list">
+                    <p>
+                    <h3>Cars</h3>
+                    @Html.Lists((List<string>) ViewData["cars"])
+                </div>
+                <div class="form-checkbox">
+                    <div>
+                        Company
+                    </div>
+                    @Html.CheckBoxes((List<string>) ViewData["cars"], "cars")
+                    <br/>
+                </div>
+                <div class="form-button">
+                    <button type="submit">Send</button>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="response">
+            <div style="margin-bottom: 20px;">
+                Your answer
+            </div>
+            @foreach (var value in Model)
+            {
+                <div>
+                    @value: @Model[value]
+                </div>
+            }
+        </div>
+    }
+</div>

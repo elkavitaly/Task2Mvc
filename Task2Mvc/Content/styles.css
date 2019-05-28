@@ -1,0 +1,175 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    font-family: 'Comfortaa', cursive;
+    font-size: 16px;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    height: 70px;
+    width: 100%;
+    justify-content: flex-start;
+    background-color: #3342ea;
+}
+
+.header-text {
+    font-size: 30px;
+    font-width: bold;
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-image {
+    width: 10%;
+    height: 100%;
+    text-align: center;
+}
+
+.header-image img {
+    height: 70px;
+    width: auto;
+}
+
+main {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: calc(100vh - 160px);
+}
+
+.main-container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.content {
+    width: 100%;
+}
+
+.article {
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.menu {
+    width: 20%;
+    background-color: #3342ea;
+    margin-left: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.menu-links {
+    width: 50%;
+    height: auto;
+}
+
+.menu-link {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.menu-link a {
+    color: #ffffff;
+}
+
+.menu-link a:hover {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #3342ea;
+    width: 100%;
+    padding-top: 20px;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: darkblue;
+    text-decoration: none;
+}
+
+.footer-items {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.form-container form {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.form-text-inputs, .form-radio, .form-checkbox, .form-list, .form-button {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0 20px 0;
+    font-weight: normal;
+}
+
+.form-input {
+    margin-bottom: 10px;
+}
+
+.form-input input {
+    height: 30px;
+    width: 240px;
+    font-size: 24px;
+    border-radius: 3px;
+    border: 1px solid lightblue;
+}
+
+.form-button button {
+    height: 30px;
+    width: 120px;
+    border-radius: 3px;
+    background-color: darkblue;
+    border: none;
+    color: white;
+}
+
+.response {
+    width: 50%;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,53 @@
+﻿@using DataLayer.Entities
+@model DataLayer.Unit
+@{
+    ViewBag.Title = "Articles";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+@if (ViewData["unit"] != null)
+{
+    <div class="content">
+        <div class="guest-form">
+            @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+            {
+                <h1>Your article</h1>
+                <div>
+                    @Html.Label("Name", "Name")
+                </div>
+                <div>
+                    @Html.TextBox("Name", "", new { @class = "form-control" })
+                </div>
+                <div>
+                    @Html.Label("Content", "Your article")
+                </div>
+                <div>
+                    @Html.TextArea("Content", "", new { @class = "form-control" })
+                </div>
+                <div>
+                    @Html.Label("Date", "Date")
+                </div>
+                <div>
+                    @Html.TextBox("Date", "", new { @class = "form-control" })
+                </div>
+                <button type="submit" class="btn btn-primary" style="margin-bottom: 20px">Send</button>
+            }
+        </div>
+        <div class="articles">
+            @foreach (var elem in (List<Article>)ViewData["unit"])
+            {
+                <div class="article">
+                    <div class="article-name">
+                        <h1>@elem.Name</h1>
+                    </div>
+                    <div class="article-date text-info">
+                        @elem.Date
+                    </div>
+                    <div class="article-text text-info">
+                        @elem.Content
+                    </div>
+                    <br />
+                </div>
+            }
+        </div>
+    </div>
+}

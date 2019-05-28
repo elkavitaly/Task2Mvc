@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="@Url.Content("~/Content/styles.css")" type="text/css">
+</head>
+<body>
+<header>
+    <div class="header-text">
+        CarBlog
+    </div>
+    <div class="header-image">
+        <img src="https://static.thenounproject.com/png/10662-200.png" alt="">
+    </div>
+</header>
+<main>
+    <div class="main-container">
+        @RenderBody()
+    </div>
+    <div class="menu">
+        <div class="menu-links">
+            <div class="menu-link">
+                @Html.ActionLink("Главная", "Index", "Home")
+            </div>
+            <div class="menu-link">
+                @Html.ActionLink("Гостевая", "Index", "Review")
+            </div>
+            <div class="menu-link">
+                @Html.ActionLink("Анкета", "Index", "Form")
+            </div>
+        </div>
+    </div>
+</main>
+<footer>
+    <div class="footer-items">
+        <p>&copy;All Rights Reserved</p>
+        <p>
+            <a href="#top">Back To Top</a>
+        </p>
+    </div>
+</footer>
+</body>
+</html>
