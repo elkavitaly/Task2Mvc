@@ -1,0 +1,23 @@
+@model Task2Mvc.Models.ArticleView
+
+@{
+    ViewBag.Title = "Articles";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+<div class="details">
+    <div>
+        @Html.DisplayFor(m => m.Name)
+    </div>
+    <div>
+        @Html.DisplayFor(m => m.Content)
+    </div>
+    <div>
+        @Html.DisplayFor(m => m.Date)
+    </div>
+    <div>
+        @foreach (var elem in Model.Tags)
+        {
+            <span>#@elem </span>
+        }
+    </div>
+</div>

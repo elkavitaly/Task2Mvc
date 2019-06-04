@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68c08436-3d63-475d-b219-d1c90c4ae0a5" name="Default Changelist" comment="" />
+    <list default="true" id="68c08436-3d63-475d-b219-d1c90c4ae0a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Task2Mvc/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task2Mvc/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Task2Mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task2Mvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Task2Mvc/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Task2Mvc/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Task2Mvc/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Task2Mvc/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Task2Mvc/v16/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Task2Mvc/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Task2Mvc/v16/Server/sqlite3/storage.ide-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Task2Mvc/v16/Server/sqlite3/storage.ide-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataLayer/Entities/Article.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataLayer/Entities/Article.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataLayer/bin/Debug/DataLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataLayer/bin/Debug/DataLayer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataLayer/bin/Debug/DataLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataLayer/bin/Debug/DataLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataLayer/obj/Debug/DataLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/App_Data/BlogDb.mdf" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/App_Data/BlogDb.mdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/App_Data/BlogDb_log.ldf" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/App_Data/BlogDb_log.ldf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/App_Start/BundleConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/App_Start/BundleConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/Content/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/Content/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/Task2Mvc.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/Task2Mvc.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout1.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout1.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/Web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/bin/DataLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/bin/DataLayer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/bin/DataLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/bin/DataLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/bin/Task2Mvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/bin/Task2Mvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/bin/Task2Mvc.dll.config" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/bin/Task2Mvc.dll.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/bin/Task2Mvc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/bin/Task2Mvc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/obj/Debug/Task2Mvc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2Mvc/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Task2Mvc/packages.config" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,116 +66,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task2Mvc/Controllers/FormController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding>
-                <marker date="1559045350599" expanded="false" signature="6:55" ph="..." />
-                <marker date="1559045350599" expanded="true" signature="87:598" ph="{...}" />
-                <marker date="1559045350599" expanded="true" signature="134:596" ph="{...}" />
-                <marker date="1559045350599" expanded="true" signature="149:223" ph="/// Display form for customer ... " />
-                <marker date="1559045350599" expanded="true" signature="278:590" ph="{...}" />
-                <marker date="1559045350599" expanded="true" signature="347:410" ph="{...}" />
-                <marker date="1559045350599" expanded="true" signature="427:580" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Task2Mvc/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="370">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
-                <marker date="1559047914450" expanded="true" signature="6:106" ph="..." />
-                <marker date="1559047914450" expanded="true" signature="138:944" ph="{...}" />
-                <marker date="1559047914450" expanded="true" signature="185:942" ph="{...}" />
-                <marker date="1559047914450" expanded="true" signature="200:306" ph="/// Display articles and provide form for adding new articles ... " />
-                <marker date="1559047914450" expanded="true" signature="361:936" ph="{...}" />
-                <marker date="1559047914450" expanded="true" signature="430:752" ph="{...}" />
-                <marker date="1559047914450" expanded="true" signature="507:738" ph="{...}" />
-                <marker date="1559047914450" expanded="true" signature="808:891" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataLayer/Repositories/IRepository.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding>
-                <marker date="1559045066207" expanded="true" signature="67:241" ph="{...}" />
-                <marker date="1559045066207" expanded="true" signature="105:239" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataLayer/Repositories/ReviewRepository.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <marker date="1559048405287" expanded="true" signature="6:73" ph="..." />
-                <marker date="1559048405287" expanded="true" signature="107:979" ph="{...}" />
-                <marker date="1559048405287" expanded="true" signature="114:194" ph="/// Provides actions with Reviews in BlogDb ... " />
-                <marker date="1559048405287" expanded="true" signature="250:977" ph="{...}" />
-                <marker date="1559048405287" expanded="true" signature="357:409" ph="{...}" />
-                <marker date="1559048405287" expanded="true" signature="449:547" ph="{...}" />
-                <marker date="1559048405287" expanded="true" signature="590:691" ph="{...}" />
-                <marker date="1559048405287" expanded="true" signature="732:893" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataLayer/DataContext.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-              <folding>
-                <marker date="1559045162327" expanded="true" signature="6:51" ph="..." />
-                <marker date="1559045162327" expanded="true" signature="72:300" ph="{...}" />
-                <marker date="1559045162327" expanded="true" signature="115:298" ph="{...}" />
-                <marker date="1559045162327" expanded="true" signature="167:187" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataLayer/Entities/Article.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-              <folding>
-                <marker date="1559047772993" expanded="true" signature="43:253" ph="{...}" />
-                <marker date="1559047772993" expanded="true" signature="70:251" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task2Mvc/Controllers/ReviewController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding>
-                <marker date="1559045743425" expanded="false" signature="6:64" ph="..." />
-                <marker date="1559045743425" expanded="true" signature="96:799" ph="{...}" />
-                <marker date="1559045743425" expanded="true" signature="145:797" ph="{...}" />
-                <marker date="1559045743425" expanded="true" signature="160:264" ph="/// Display reviews and provide form for adding new reviews ... " />
-                <marker date="1559045743425" expanded="true" signature="319:791" ph="{...}" />
-                <marker date="1559045743425" expanded="true" signature="388:608" ph="{...}" />
-                <marker date="1559045743425" expanded="true" signature="465:594" ph="{...}" />
-                <marker date="1559045743425" expanded="true" signature="664:746" ph="{...}" />
+                <marker date="1559658295373" expanded="false" signature="6:294" ph="..." />
+                <marker date="1559658295373" expanded="true" signature="326:2279" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="373:2277" ph="{...}" />
+                <marker date="1559658295373" expanded="false" signature="388:494" ph="/// Display articles and provide form for adding new articles ... " />
+                <marker date="1559658295373" expanded="true" signature="549:1587" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="618:1112" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="695:1098" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="823:1078" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="1168:1542" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="1275:1486" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="1347:1468" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="1633:2156" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="1727:1831" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="1865:1932" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="1988:2144" ph="{...}" />
+                <marker date="1559658295373" expanded="true" signature="2192:2271" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -146,35 +95,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout1.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            <state relative-caret-position="48">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+              <folding>
+                <marker date="1559658848191" expanded="true" signature="1135:1760" ph="@..." />
+                <marker date="1559658848191" expanded="true" signature="1162:1760" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task2Mvc/Content/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+              <folding>
+                <element signature="e#281#402#0" />
+                <element signature="e#417#570#0" />
+                <element signature="e#586#647#0" />
+                <element signature="e#667#705#0" />
+                <element signature="e#1049#1069#0" />
+                <element signature="e#1080#1165#0" />
+                <element signature="e#1177#1214#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DataLayer/Repositories/ReviewRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataLayer/Entities/Article.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataLayer/Entities/Review.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataLayer/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task2Mvc/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataLayer/Unit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataLayer/App.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataLayer/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/Controllers/ReviewController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataLayer/Repositories/ArticleRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Task2Mvc/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataLayer/Repositories/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/Controllers/FormController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataLayer/Repositories/ReviewRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataLayer/Entities/Article.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataLayer/Entities/Review.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task2Mvc/Models/ArticleView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/App_Start/BundleConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout1.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/Views/Review/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task2Mvc/Views/Home/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2Mvc/Views/Form/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataLayer/Repositories/ArticleRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataLayer/Repositories/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -187,17 +163,20 @@
         <option value="$PROJECT_DIR$/Task2Mvc/Controllers/FormController.cs" />
         <option value="$PROJECT_DIR$/Task2Mvc/Views/Form/Index.cshtml" />
         <option value="$PROJECT_DIR$/Task2Mvc/Views/Review/Index.cshtml" />
-        <option value="$PROJECT_DIR$/Task2Mvc/Content/styles.css" />
         <option value="$PROJECT_DIR$/Task2Mvc/Controllers/ReviewController.cs" />
-        <option value="$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout1.cshtml" />
-        <option value="$PROJECT_DIR$/DataLayer/Entities/Article.cs" />
-        <option value="$PROJECT_DIR$/Task2Mvc/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/DataLayer/Repositories/ArticleRepository.cs" />
         <option value="$PROJECT_DIR$/DataLayer/Repositories/ReviewRepository.cs" />
+        <option value="$PROJECT_DIR$/Task2Mvc/Models/ArticleView.cs" />
+        <option value="$PROJECT_DIR$/DataLayer/Entities/Article.cs" />
+        <option value="$PROJECT_DIR$/Task2Mvc/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Task2Mvc/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout1.cshtml" />
+        <option value="$PROJECT_DIR$/Task2Mvc/Views/Home/Details.cshtml" />
+        <option value="$PROJECT_DIR$/Task2Mvc/Content/styles.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -208,8 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -220,13 +197,28 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Task2Mvc" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="DataLayer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Task2Mvc" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Task2Mvc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Task2Mvc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Task2Mvc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Task2Mvc" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,6 +228,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -291,11 +284,13 @@
       <workItem from="1559044585794" duration="91000" />
       <workItem from="1559044825737" duration="1462000" />
       <workItem from="1559047069037" duration="2048000" />
+      <workItem from="1559230142695" duration="3952000" />
+      <workItem from="1559657970136" duration="1640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3601000" />
+    <option name="totallyTimeSpent" value="9193000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,9 +303,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.14372164" />
       <window_info id="Structure" order="1" sideWeight="0.50159746" side_tool="true" weight="0.25718608" />
       <window_info id="Favorites" order="2" sideWeight="0.50159746" side_tool="true" weight="0.25718608" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -386,21 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task2Mvc/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <folding>
-            <marker date="1558635429740" expanded="true" signature="48:131" ph="@..." />
-            <marker date="1558635429740" expanded="true" signature="132:1745" ph="@..." />
-            <marker date="1558635429740" expanded="true" signature="162:1745" ph="{...}" />
-            <marker date="1558635429740" expanded="true" signature="236:1129" ph="@..." />
-            <marker date="1558635429740" expanded="true" signature="306:1129" ph="{...}" />
-            <marker date="1558635429740" expanded="true" signature="1188:1717" ph="@..." />
-            <marker date="1558635429740" expanded="true" signature="1242:1717" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Task2Mvc/Views/Form/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="752">
@@ -433,13 +412,6 @@
             <marker date="1559045574660" expanded="true" signature="1003:1447" ph="{...}" />
             <marker date="1559045574660" expanded="true" signature="1480:1565" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task2Mvc/Content/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2142">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -483,60 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task2Mvc/Controllers/FormController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <marker date="1559045350599" expanded="false" signature="6:55" ph="..." />
-            <marker date="1559045350599" expanded="true" signature="87:598" ph="{...}" />
-            <marker date="1559045350599" expanded="true" signature="134:596" ph="{...}" />
-            <marker date="1559045350599" expanded="true" signature="149:223" ph="/// Display form for customer ... " />
-            <marker date="1559045350599" expanded="true" signature="278:590" ph="{...}" />
-            <marker date="1559045350599" expanded="true" signature="347:410" ph="{...}" />
-            <marker date="1559045350599" expanded="true" signature="427:580" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task2Mvc/Controllers/ReviewController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <marker date="1559045743425" expanded="false" signature="6:64" ph="..." />
-            <marker date="1559045743425" expanded="true" signature="96:799" ph="{...}" />
-            <marker date="1559045743425" expanded="true" signature="145:797" ph="{...}" />
-            <marker date="1559045743425" expanded="true" signature="160:264" ph="/// Display reviews and provide form for adding new reviews ... " />
-            <marker date="1559045743425" expanded="true" signature="319:791" ph="{...}" />
-            <marker date="1559045743425" expanded="true" signature="388:608" ph="{...}" />
-            <marker date="1559045743425" expanded="true" signature="465:594" ph="{...}" />
-            <marker date="1559045743425" expanded="true" signature="664:746" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout1.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataLayer/Repositories/IRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <marker date="1559045066207" expanded="true" signature="67:241" ph="{...}" />
-            <marker date="1559045066207" expanded="true" signature="105:239" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5dcb9e5b-fa45-464a-b577-34f2e19125ff/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5dcb9e5b-fa45-464a-b577-34f2e19125ff/console.sql" />
     <entry file="file://$PROJECT_DIR$/DataLayer/packages.config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -544,47 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataLayer/Repositories/ReviewRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <marker date="1559048405287" expanded="true" signature="6:73" ph="..." />
-            <marker date="1559048405287" expanded="true" signature="107:979" ph="{...}" />
-            <marker date="1559048405287" expanded="true" signature="114:194" ph="/// Provides actions with Reviews in BlogDb ... " />
-            <marker date="1559048405287" expanded="true" signature="250:977" ph="{...}" />
-            <marker date="1559048405287" expanded="true" signature="357:409" ph="{...}" />
-            <marker date="1559048405287" expanded="true" signature="449:547" ph="{...}" />
-            <marker date="1559048405287" expanded="true" signature="590:691" ph="{...}" />
-            <marker date="1559048405287" expanded="true" signature="732:893" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataLayer/DataContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <marker date="1559045162327" expanded="true" signature="6:51" ph="..." />
-            <marker date="1559045162327" expanded="true" signature="72:300" ph="{...}" />
-            <marker date="1559045162327" expanded="true" signature="115:298" ph="{...}" />
-            <marker date="1559045162327" expanded="true" signature="167:187" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataLayer/Entities/Article.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding>
-            <marker date="1559047772993" expanded="true" signature="43:253" ph="{...}" />
-            <marker date="1559047772993" expanded="true" signature="70:251" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -605,19 +483,178 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Task2Mvc/Controllers/FormController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <marker date="1559162679168" expanded="false" signature="6:55" ph="..." />
+            <marker date="1559162679168" expanded="true" signature="87:598" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="134:596" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="149:223" ph="/// Display form for customer ... " />
+            <marker date="1559162679168" expanded="true" signature="278:590" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="347:410" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="427:580" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/Repositories/IRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <marker date="1559162678903" expanded="true" signature="67:241" ph="{...}" />
+            <marker date="1559162678903" expanded="true" signature="105:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/Repositories/ReviewRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <marker date="1559162678903" expanded="false" signature="6:73" ph="..." />
+            <marker date="1559162678903" expanded="true" signature="107:979" ph="{...}" />
+            <marker date="1559162678903" expanded="true" signature="114:194" ph="/// Provides actions with Reviews in BlogDb ... " />
+            <marker date="1559162678903" expanded="true" signature="250:977" ph="{...}" />
+            <marker date="1559162678903" expanded="true" signature="357:409" ph="{...}" />
+            <marker date="1559162678903" expanded="true" signature="449:547" ph="{...}" />
+            <marker date="1559162678903" expanded="true" signature="590:691" ph="{...}" />
+            <marker date="1559162678903" expanded="true" signature="732:893" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/DataContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <marker date="1559162678903" expanded="false" signature="6:51" ph="..." />
+            <marker date="1559162678903" expanded="true" signature="72:300" ph="{...}" />
+            <marker date="1559162678903" expanded="true" signature="115:298" ph="{...}" />
+            <marker date="1559162678903" expanded="true" signature="167:187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2Mvc/Controllers/ReviewController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <marker date="1559162679168" expanded="false" signature="6:64" ph="..." />
+            <marker date="1559162679168" expanded="true" signature="96:799" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="145:797" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="160:264" ph="/// Display reviews and provide form for adding new reviews ... " />
+            <marker date="1559162679168" expanded="true" signature="319:791" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="388:608" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="465:594" ph="{...}" />
+            <marker date="1559162679168" expanded="true" signature="664:746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2Mvc/Models/ArticleView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <marker date="1559231349000" expanded="true" signature="25:196" ph="{...}" />
+            <marker date="1559231349000" expanded="true" signature="56:194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2Mvc/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <marker date="1559658513721" expanded="true" signature="48:131" ph="@..." />
+            <marker date="1559658513721" expanded="true" signature="132:2115" ph="@..." />
+            <marker date="1559658513721" expanded="true" signature="162:2115" ph="{...}" />
+            <marker date="1559658513721" expanded="true" signature="236:1418" ph="@..." />
+            <marker date="1559658513721" expanded="true" signature="306:1418" ph="{...}" />
+            <marker date="1559658513721" expanded="true" signature="1477:2087" ph="@..." />
+            <marker date="1559658513721" expanded="true" signature="1532:2087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/Entities/Article.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1559235567571" expanded="true" signature="43:294" ph="{...}" />
+            <marker date="1559235567571" expanded="true" signature="70:292" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Task2Mvc/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="370">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
-            <marker date="1559047914450" expanded="true" signature="6:106" ph="..." />
-            <marker date="1559047914450" expanded="true" signature="138:944" ph="{...}" />
-            <marker date="1559047914450" expanded="true" signature="185:942" ph="{...}" />
-            <marker date="1559047914450" expanded="true" signature="200:306" ph="/// Display articles and provide form for adding new articles ... " />
-            <marker date="1559047914450" expanded="true" signature="361:936" ph="{...}" />
-            <marker date="1559047914450" expanded="true" signature="430:752" ph="{...}" />
-            <marker date="1559047914450" expanded="true" signature="507:738" ph="{...}" />
-            <marker date="1559047914450" expanded="true" signature="808:891" ph="{...}" />
+            <marker date="1559658295373" expanded="false" signature="6:294" ph="..." />
+            <marker date="1559658295373" expanded="true" signature="326:2279" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="373:2277" ph="{...}" />
+            <marker date="1559658295373" expanded="false" signature="388:494" ph="/// Display articles and provide form for adding new articles ... " />
+            <marker date="1559658295373" expanded="true" signature="549:1587" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="618:1112" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="695:1098" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="823:1078" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="1168:1542" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="1275:1486" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="1347:1468" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="1633:2156" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="1727:1831" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="1865:1932" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="1988:2144" ph="{...}" />
+            <marker date="1559658295373" expanded="true" signature="2192:2271" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2Mvc/Views/Home/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1559658848232" expanded="true" signature="36:119" ph="@..." />
+            <marker date="1559658848232" expanded="true" signature="340:426" ph="@..." />
+            <marker date="1559658848232" expanded="true" signature="373:426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2Mvc/Views/Shared/_Layout1.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <marker date="1559658848191" expanded="true" signature="1135:1760" ph="@..." />
+            <marker date="1559658848191" expanded="true" signature="1162:1760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2Mvc/Content/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding>
+            <element signature="e#281#402#0" />
+            <element signature="e#417#570#0" />
+            <element signature="e#586#647#0" />
+            <element signature="e#667#705#0" />
+            <element signature="e#1049#1069#0" />
+            <element signature="e#1080#1165#0" />
+            <element signature="e#1177#1214#0" />
           </folding>
         </state>
       </provider>

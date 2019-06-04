@@ -33,16 +33,31 @@
             <div class="menu-link">
                 @Html.ActionLink("Анкета", "Index", "Form")
             </div>
+            @if (Request.RawUrl == "/")
+            {
+                <div id="vote-text">
+                    <div>
+                        @Html.RadioButton("item", "yes", false, new {id = "yes"})
+                        @Html.Label("yes", "Yes")
+                    </div>
+                    <div>
+                        @Html.RadioButton("item", "no", false, new {id = "no"})
+                        @Html.Label("no", "No")
+                    </div>
+                </div>
+                @Ajax.ActionLink("Vote", "Vote", "Home", new AjaxOptions {UpdateTargetId = "vote-text", InsertionMode = InsertionMode.Replace})
+            }
         </div>
     </div>
 </main>
 <footer>
-    <div class="footer-items">
+    <div class="footer-items"> 
         <p>&copy;All Rights Reserved</p>
         <p>
             <a href="#top">Back To Top</a>
         </p>
     </div>
 </footer>
+@Scripts.Render("~/bundles/jquery")
 </body>
 </html>

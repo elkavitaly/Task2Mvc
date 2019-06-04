@@ -15,29 +15,37 @@
                     @Html.Label("Name", "Name")
                 </div>
                 <div>
-                    @Html.TextBox("Name", "", new { @class = "form-control" })
+                    @Html.TextBox("Name", "", new {@class = "form-control"})
                 </div>
                 <div>
                     @Html.Label("Content", "Your article")
                 </div>
                 <div>
-                    @Html.TextArea("Content", "", new { @class = "form-control" })
+                    @Html.TextArea("Content", "", new {@class = "form-control"})
                 </div>
                 <div>
                     @Html.Label("Date", "Date")
                 </div>
                 <div>
-                    @Html.TextBox("Date", "", new { @class = "form-control" })
+                    @Html.TextBox("Date", "", new {@class = "form-control"})
                 </div>
+                <div>
+                    @Html.Label("Tags", "Tags")
+                </div>
+                <div class="tag">
+                    @Html.TextBox("Tags", "", new {@class = "form-control"})
+                </div>
+
+                <button type="button" class="add">Add tag</button>
                 <button type="submit" class="btn btn-primary" style="margin-bottom: 20px">Send</button>
             }
         </div>
         <div class="articles">
-            @foreach (var elem in (List<Article>)ViewData["unit"])
+            @foreach (var elem in (List<Article>) ViewData["unit"])
             {
                 <div class="article">
                     <div class="article-name">
-                        <h1>@elem.Name</h1>
+                        <h1>@Html.ActionLink(@elem.Name, "Details", new {id = elem.ArticleId}, new {target = "_blank"})</h1>
                     </div>
                     <div class="article-date text-info">
                         @elem.Date
@@ -45,9 +53,19 @@
                     <div class="article-text text-info">
                         @elem.Content
                     </div>
-                    <br />
+                    <br/>
                 </div>
             }
         </div>
     </div>
 }
+<script>
+    var btn = document.querySelector(".add");
+    btn.addEventListener("click", function () {
+        var tag = document.querySelector(".tag").cloneNode(true);
+        tag.querySelector("input").value = "";
+        var form = document.querySelector("form");
+        form.insertBefore(tag, btn);
+    });
+
+</script>

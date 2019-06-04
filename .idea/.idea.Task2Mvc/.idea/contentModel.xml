@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\vital\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\vital\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Task2Mvc.-1985001379.00" t="ExcludeRecursive" />
-    <e p="C:\Users\vital\source\repos\Task2Mvc" t="IncludeFlat">
+    <e p="C:\Users\drago\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\drago\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Task2Mvc.390801300.00" t="ExcludeRecursive" />
+    <e p="C:\Users\drago\RiderProjects\Task2Mvc" t="IncludeFlat">
       <e p="DataLayer" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -59,6 +59,7 @@
         <e p="Global.asax" t="Include" />
         <e p="Global.asax.cs" t="Include" />
         <e p="Models" t="Include">
+          <e p="ArticleView.cs" t="Include" />
           <e p="Helpers.cs" t="Include" />
           <e p="ReviewView.cs" t="Include" />
         </e>
@@ -77,6 +78,8 @@
           <e p="jquery-3.3.1.slim.js" t="Include" />
           <e p="jquery-3.3.1.slim.min.js" t="Include" />
           <e p="jquery-3.3.1.slim.min.map" t="Include" />
+          <e p="jquery.unobtrusive-ajax.js" t="Include" />
+          <e p="jquery.unobtrusive-ajax.min.js" t="Include" />
           <e p="jquery.validate-vsdoc.js" t="Include" />
           <e p="jquery.validate.js" t="Include" />
           <e p="jquery.validate.min.js" t="Include" />
@@ -91,6 +94,7 @@
             <e p="Index.cshtml" t="Include" />
           </e>
           <e p="Home" t="Include">
+            <e p="Details.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
           </e>
           <e p="Review" t="Include">
